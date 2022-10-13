@@ -1,6 +1,6 @@
 # StudyTimer
 시간을 재주고 엑셀에 자동으로 저장해주는 프로그램입니다. 자세한 사용법은 하단의 링크를 통해서 확인할 수 있습니다.
-<a>https://huniverse.notion.site/Study-Timer-75c02daeef6349eb8f91dea5171ef2dd</a>
+<a target="_blank">https://huniverse.notion.site/Study-Timer-75c02daeef6349eb8f91dea5171ef2dd</a>
 
 **서비스 소개**: 스톱워치 기능 및 기록된 시간을 엑셀 파일에 
 자동으로 저장해주는 프로그램입니다.
